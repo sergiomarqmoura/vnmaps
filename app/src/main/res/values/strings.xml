@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps</string>
+    <string name="title_activity_main">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="title_activity_org_dest_chooser">OrgDestChooser</string>
+    <string name="str_atv_places_org">Enter Origin Here</string>
+    <string name="str_atv_places_dest">Enter Destination Here</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
